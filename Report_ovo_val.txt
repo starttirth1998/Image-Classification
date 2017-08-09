@@ -1,0 +1,30 @@
+
+Type	C	gamma	Accuracy Train	Accuracy Val
+
+Linear	2	4	66.8		35.3
+
+Linear	4	4	72.65		32.77
+
+Linear	8	4	78.7		31.09
+
+Linear	1	4	59.9		38.65
+
+Linear	0.1	4	45.5		31.9
+
+Linear	2	1	47.8		29.4
+
+Linear	2	8	73.3		34.45
+
+Poly	2	4	100		16.8
+
+Poly	0.1	4	83.5		16.8
+
+Poly	0.01	4	83.5		16.8
+
+Poly	0.1	2	83.5		16.8
+
+Poly	0.1	0.1	98		16.8
+
+Polywob	8	4	54.7		16.8
+
+Polywob	0.3	0.7	28.8		21.8

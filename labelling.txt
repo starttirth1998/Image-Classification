@@ -1,0 +1,6 @@
+Bikes => 0
+Airplane => 1
+Ships => 2
+Helicopters => 3
+Buses => 4
+Cars => 5
